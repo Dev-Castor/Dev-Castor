@@ -1,9 +1,9 @@
 ### Olá!! Eu sou o João Guilherme
 
 - 🔭 Hoje trabalho com front-end e automação de tarefas
-- 🌱 Estudando desenvolvimento de sistemas
-- 📫 Contate-me no email: joao.guilherme1827@gmail.com
-- 😄 Pronouns: ele/dele
+- 🌱 Formado em Técnico em desenvolvimento de sistemas
+- 📫 Contate-me no email: contatodevamaro@gmail.com
+
 
 <div align="center">
   <a href="beacons.ai/dev.amaro">
